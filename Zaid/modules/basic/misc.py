@@ -11,20 +11,20 @@ from Zaid.helper.PyroHelpers import ReplyCheck
 from Zaid.modules.help import add_command_help
 from Zaid.modules.bot.inline import get_readable_time
 
-alive_logo = ALIVE_PIC or "https://graph.org/file/c6a2ed96648fd03377dc9.jpg"
+alive_logo = ALIVE_PIC or "https://telegra.ph/file/bb12fccd5d89ea5ed98d7.jpg"
 
 if ALIVE_TEXT:
    txt = ALIVE_TEXT
 else:
     txt = (
-        f"** ⚡️ 𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥 ⚡️ **\n\n"
+        f"** ⚡️ 𝗡𝗔𝗥𝗨𝗝𝗔𝗔𝗧 ⚡️ **\n\n"
         f"❏ **𝐕ᴇʀsɪᴏɴ**: `2.1`\n"
         f"├• **𝐔ᴘᴛɪᴍᴇ**: `{str(datetime.now() - START_TIME).split('.')[0]}`\n"
         f"├• **𝐏ʏᴛʜᴏɴ**: `{python_version()}`\n"
         f"├• **𝐏ʏʀᴏɢʀᴀᴍ**: `{__version__}`\n"
-        f"├• **𝐒ᴜᴘᴘᴏʀᴛ-𝐂ʜᴀᴛ**: [𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥-𝗪𝗢𝗥𝗟𝗗](t.me/STRANGERXWORLD)\n"
-        f"├• **𝐔ᴘᴅᴀᴛᴇs**: [𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥](t.me/SHIVANSH474)\n"
-        f"└• **𝐌ᴀsᴛᴇʀ**: [𝗦𝗛𝗜𝗩𝗔𝗡𝗦𝗛](t.me/SHIVANSH39)"        
+        f"├• **𝐒ᴜᴘᴘᴏʀᴛ-𝐂ʜᴀᴛ**: [𝐁𝐀𝐁𝐘](t.me/BROKENSHAYRI1)\n"
+        f"├• **𝐔ᴘᴅᴀᴛᴇs**: [𝐂𝐑𝐔𝐒𝐇](t.me/SHAYRIGALIBKI)\n"
+        f"└• **𝐌ᴀsᴛᴇʀ**: [𝐋𝐎𝐕𝐄](t.me/MR_NARU)"        
     )
 
 @Client.on_message(
@@ -57,12 +57,12 @@ async def repo(bot: Client, message: Message):
     await asyncio.sleep(1)
     await message.edit("Fetching Source Code.....")
     await asyncio.sleep(1)
-    await message.edit("Here is repo: \n\n\nhttps://github.com/itzshukla/STRANGER-USERBOT2.0\nFork & Give an ⭐")
+    await message.edit("Here is repo: \n\n\nhttps://te.legra.ph/file/ebc3fc421b8776e29ad98.mp4\nFork & Give an ⭐")
 
 
 @Client.on_message(filters.command("creator", ".") & filters.me)
 async def creator(bot: Client, message: Message):
-    await message.edit("https://gitHub.com/itzshukla")
+    await message.edit("𝐍𝐀𝐑𝐔 𝐉𝐀𝐀𝐓 𝐊𝐎 𝐏𝐀𝐏𝐀 𝐁𝐎𝐋 𝐊 𝐀𝐀 𝐉𝐋𝐃𝐈 𝐒")
 
 
 @Client.on_message(filters.command(["uptime", "up"], ".") & filters.me)
