@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 
 
 API_ID = int(6435225) #optional
-API_HASH = "" #optional
+API_HASH = "d99e42b17cfd29246629c65c61fe2704" #optional
 
 SUDO_USERS = list(map(int, ("").split()))
 OWNER_ID = int(5473771943)
