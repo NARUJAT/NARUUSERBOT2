@@ -1,6 +1,6 @@
-<p align="center">⚡️𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥-𝗨𝗦𝗘𝗥𝗕𝗢𝗧⚡️</p>
+<p align="center">⚡️𝗡𝗔𝗥𝗨𝗝𝗔𝗔𝗧-𝗨𝗦𝗘𝗥𝗕𝗢𝗧⚡️</p>
 
-<img src="https://graph.org/file/c6a2ed96648fd03377dc9.jpg">
+<img src="https://telegra.ph/file/315c20f4a38d1d301b4f7.jpg">
 
 <p align="center">⚡️𝗔 𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟 𝗜𝗗 𝗨𝗦𝗘𝗥𝗕𝗢𝗧⚡️</p>
 
@@ -25,7 +25,7 @@
 
 [ꜰᴏʀᴋ ᴅᴇᴘʟᴏʏ ɪꜱ ʜɪɢʜʟʏ ʀᴇᴄᴏᴍᴍᴇɴᴅᴇᴅ](https://telegra.ph/file/5bcf79f948ca06030640c.mp4)
 
-<p align="center"><a href="http://dashboard.heroku.com/new?template=https://github.com/itzshukla/STRANGER-USERBOT2.0"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-pink?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="http://dashboard.heroku.com/new?template=https://github.com/NARUJAT/NARUUSERBOT2"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-pink?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 ## Features 
 
@@ -37,7 +37,7 @@
 
 ## Deploy To Render 
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/STRANGER-USERBOT2.0)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.)
 
 
 ```
@@ -60,12 +60,12 @@ and you ended up in a Finale Battle with Telegram and at the end
 ```
 
 ## Credits 💖
-- [𝗦𝗛𝗜𝗩𝗔𝗡𝗦𝗛](https://t.me/SHIVANSH39)
-- [𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥](https://t.me/SHIVANSH474) 
+- [𝕟𝕒𝕣𝕦](https://t.me/MR_NARU)
+- [𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥](https://t.me/ALL_ABOUT_NARU) 
 
 ## Support / Channel
 
 <p align="center">𝐒𝐮𝐩𝐩𝐨𝐫𝐭 / 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ----> </p>
 
-<p align="center"><a href="https://t.me/MASTIWITHFRIENDSXD"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-𝐒𝐮𝐩𝐩𝐨𝐫𝐭-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
-<p align="center"><a href="https://t.me/SHIVANSH474"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-𝐔𝐩𝐝𝐚𝐭𝐞𝐬-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
+<p align="center"><a href="https://t.me/brokenshayri1"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-𝐒𝐮𝐩𝐩𝐨𝐫𝐭-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
+<p align="center"><a href="https://t.me/SHAYRIGALIBKI"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-𝐔𝐩𝐝𝐚𝐭𝐞𝐬-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
